@@ -22,7 +22,7 @@
 > Ces deux œuvres, séparées de plus de 2 300 ans, posent la même question. D’où notre problématique : **en quoi *Matrix* reprend-elle l’allégorie de la caverne pour nous apprendre à distinguer le vrai du faux ?** Nous verrons d’abord une même illusion, puis une sortie douloureuse, et enfin nos cavernes d’aujourd’hui.
 
 **Diapo 3 · La caverne de Platon**
-> Dans *La République*, Platon imagine des prisonniers enchaînés au fond d’une caverne. Ils ne voient que des ombres sur une paroi et les prennent pour la réalité. L’un d’eux est libéré et découvre le vrai monde, mais quand il revient, les autres se moquent de lui. La caverne, c’est le monde des apparences ; l’extérieur, c’est la vérité, que l’on atteint par la raison.
+> Dans *La République*, Platon imagine des prisonniers enchaînés au fond d’une caverne (montrer le 2). Derrière eux, des hommes portent des objets (3) devant un feu (4) : les prisonniers ne voient que leurs ombres sur la paroi (1), et les prennent pour la réalité. L’un d’eux est libéré, sort et découvre le soleil (5), c’est-à-dire la vérité. Mais quand il revient, les autres se moquent de lui. La caverne, c’est le monde des apparences ; l’extérieur, c’est la vérité, que l’on atteint par la raison.
 
 **Diapo 4 · Matrix**
 > Dans *Matrix*, en 1999, Neo découvre que son monde est une simulation créée par des machines qui exploitent les humains endormis. Morpheus lui propose la pilule bleue, pour continuer à croire, ou la pilule rouge, pour connaître la vérité.
