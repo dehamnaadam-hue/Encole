@@ -30,8 +30,8 @@
 
 ## Rayan — Un rapprochement avec Platon (~1 min 10)
 
-**Diapo 5 · La caverne de Platon**
-> Cette question n’est pas nouvelle. Vers 375 avant J.-C., le philosophe Platon raconte l’allégorie de la caverne. Des prisonniers sont enchaînés face à une paroi (montrer le 2). Derrière eux, des hommes portent des objets (3) devant un feu (4). Les prisonniers ne voient que les ombres (1), et ils les prennent pour la réalité. Quand l’un d’eux sort, il est d’abord ébloui, puis il découvre le soleil (5), c’est-à-dire la vérité.
+**Diapo 5 · La caverne**
+> Cette question n’est pas nouvelle. Vers 375 avant J.-C., le philosophe Platon raconte l’allégorie de la caverne. Des prisonniers sont enchaînés depuis toujours face à une paroi. Derrière eux, un feu projette les ombres d’objets que des hommes transportent. Les prisonniers ne voient que ces ombres, et ils les prennent pour la réalité. Quand l’un d’eux est libéré, il est d’abord ébloui, puis il découvre le soleil, c’est-à-dire la vérité.
 
 **Diapo 6 · Un rapprochement, pas une copie**
 > On peut rapprocher les deux histoires sur deux points : dans les deux, des personnes vivent dans le faux sans le savoir, et découvrir la vérité fait d’abord mal, comme le prisonnier ébloui ou Neo au réveil. Attention, Matrix n’est pas une adaptation de Platon : le film fait surtout référence au philosophe Jean Baudrillard, dont le livre Simulacres et simulation apparaît même à l’écran. Mais l’idée est proche. Roméo, à toi.
