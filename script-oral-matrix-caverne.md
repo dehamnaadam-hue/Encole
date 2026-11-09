@@ -19,22 +19,22 @@
 > Bonjour, nous sommes Adam, Rayan et Roméo. Notre exposé porte sur le thème du vrai et du faux, à travers le film *Matrix* et l’allégorie de la caverne de Platon.
 
 **Diapo 2 · Problématique et plan**
-> Ces deux œuvres, séparées de plus de 2 300 ans, posent la même question. D’où notre problématique : **en quoi *Matrix* réactualise-t-elle l’allégorie de la caverne pour nous interroger sur notre capacité à distinguer le vrai du faux ?** Nous verrons d’abord une même illusion, puis une sortie douloureuse, et enfin nos cavernes d’aujourd’hui.
+> Ces deux œuvres, séparées de plus de 2 300 ans, posent la même question. D’où notre problématique : **en quoi *Matrix* reprend-elle l’allégorie de la caverne pour nous apprendre à distinguer le vrai du faux ?** Nous verrons d’abord une même illusion, puis une sortie douloureuse, et enfin nos cavernes d’aujourd’hui.
 
-**Diapo 3 · L’allégorie de la caverne**
+**Diapo 3 · La caverne de Platon**
 > Dans *La République*, Platon imagine des prisonniers enchaînés au fond d’une caverne. Ils ne voient que des ombres sur une paroi et les prennent pour la réalité. L’un d’eux est libéré et découvre le vrai monde, mais quand il revient, les autres se moquent de lui. La caverne, c’est le monde des apparences ; l’extérieur, c’est la vérité, que l’on atteint par la raison.
 
 **Diapo 4 · Matrix**
 > Dans *Matrix*, en 1999, Neo découvre que son monde est une simulation créée par des machines qui exploitent les humains endormis. Morpheus lui propose la pilule bleue, pour continuer à croire, ou la pilule rouge, pour connaître la vérité.
 
-**Diapo 5 · Terme à terme**
-> La structure est la même : les ombres deviennent une simulation, la libération devient la pilule rouge, et le philosophe devient Morpheus. Rayan, à toi.
+**Diapo 5 · Deux histoires, un même schéma**
+> La structure est la même : les ombres deviennent une simulation, le feu devient les machines, la sortie devient la pilule rouge, et le philosophe devient Morpheus. Rayan, à toi.
 
 ---
 
 ## RAYAN — Partie II : une sortie douloureuse
 
-**Diapo 6 · La vérité fait d’abord mal**
+**Diapo 6 · La vérité fait mal**
 > Dans les deux cas, la vérité fait mal. Le prisonnier de Platon est ébloui par la lumière. Neo, lui, demande : « Pourquoi j’ai mal aux yeux ? » — « Parce que tu ne t’en es jamais servi. » Puis Morpheus lui montre le vrai monde, en ruines : « Bienvenue dans le désert du réel. »
 
 **Diapo 7 · Préférer le faux ?**
@@ -44,7 +44,7 @@
 
 ## ROMÉO — Partie III et conclusion
 
-**Diapo 8 · Nos écrans, nouvelles parois ?**
+**Diapo 8 · Nos écrans, nouvelles cavernes**
 > Aujourd’hui, nos écrans sont nos nouvelles parois : fake news, algorithmes qui nous enferment dans des bulles, deepfakes créés par l’IA, vies retouchées sur les réseaux. Comme les prisonniers, nous risquons de prendre des ombres pour la réalité.
 
 **Diapo 9 · Conclusion**
