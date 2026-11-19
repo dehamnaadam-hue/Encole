@@ -1,5 +1,5 @@
 # Revue de presse : Nvidia, quand un scandale devient une affaire d'État
-*Environ 4 minutes. Chaque partie tient en une idée et 3 mots-clés : si tu retiens l'idée, tu retrouves le reste.*
+*Environ 3 minutes. Chaque partie tient en une idée et 3 mots-clés : si tu retiens l'idée, tu retrouves le reste.*
 
 > **Toute l'histoire en une phrase :**
 > L'entreprise la plus stratégique de l'IA perd son fondateur à cause d'un soupçon d'espionnage chinois, et l'affaire devient une question de sécurité nationale pour les États-Unis.
@@ -14,11 +14,8 @@
 Bonjour à tous. Ce mois-ci, l'entreprise la plus importante de l'intelligence artificielle a perdu son patron, à cause d'un soupçon d'espionnage chinois. Cette entreprise, c'est Nvidia.
 
 **[Slide 2]**
-Pour comprendre la gravité de l'affaire, il faut savoir ce que fait Nvidia.
-Pendant la ruée vers l'or, ceux qui se sont le plus enrichis étaient les vendeurs de pelles.
-Aujourd'hui, avec la ruée vers l'IA, les pelles, ce sont les puces de Nvidia : ChatGPT, Google ou Meta en dépendent.
-Le pays qui contrôle ces puces prend donc l'avantage dans l'IA, sur le plan économique comme militaire. C'est pourquoi les États-Unis limitent leur vente à la Chine.
-Nvidia est devenue une arme stratégique, et c'est ce qui rend le départ de son patron si grave.
+Pendant la ruée vers l'or, ceux qui se sont le plus enrichis vendaient des pelles. Dans la ruée vers l'IA, les pelles, ce sont les puces de Nvidia : presque toutes les grandes IA en dépendent.
+Le pays qui contrôle ces puces prend l'avantage, économiquement et militairement. Nvidia est donc devenue une arme stratégique pour les États-Unis.
 
 ---
 
@@ -27,15 +24,11 @@ Nvidia est devenue une arme stratégique, et c'est ce qui rend le départ de son
 **Mots-clés : fondateur, soupçon d'espionnage, Washington en alerte**
 
 **[Slide 3]**
-Ce patron, c'est Jensen Huang, qui a fondé Nvidia et l'a dirigée pendant 33 ans.
-Le 12 novembre, il démissionne après avoir reconnu des relations extraconjugales.
-Le problème, c'est que l'une de ces relations concerne une femme que le *New York Times* soupçonne d'être liée aux services de renseignement chinois. Rien n'est prouvé, mais une enquête est en cours.
-Le dirigeant de l'entreprise la plus stratégique des États-Unis aurait donc pu être exposé à l'espionnage chinois. Le conseil d'administration a accepté sa démission et refuse son retour, alors même que Donald Trump y est favorable.
+Le 12 novembre, Jensen Huang, fondateur de Nvidia, démissionne après avoir reconnu des relations extraconjugales. L'une d'elles concernerait une femme soupçonnée d'être liée au renseignement chinois. Rien n'est prouvé, mais une enquête est en cours, et le conseil refuse son retour.
 
 **[Slide 4]**
-L'affaire a aussi révélé un problème plus large : des puces Nvidia arrivent en Chine par contrebande, notamment via Singapour. Or, selon une commission du Congrès, l'armée chinoise cherche à s'en procurer pour développer son IA militaire.
-À Washington, c'est l'alerte. Le gouvernement se divise, et républicains comme démocrates préparent des lois pour mieux contrôler ces puces.
-De son côté, Nvidia a cessé de vendre ses puces d'IA à la Chine.
+L'affaire révèle aussi que des puces Nvidia arrivent en Chine par contrebande, alors que l'armée chinoise les recherche pour son IA militaire.
+Washington est en alerte : le Congrès prépare des lois pour contrôler ces puces, et Nvidia a cessé de les vendre à la Chine.
 
 ---
 
