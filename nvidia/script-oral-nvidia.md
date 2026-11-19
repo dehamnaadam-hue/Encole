@@ -4,7 +4,7 @@
 > **Le fil de l'oral :**
 > 1. Le scandale : pourquoi le fondateur de Nvidia est parti.
 > 2. Le danger : ce que ce scandale pourrait permettre à la Chine.
-> 3. La Bourse : pourquoi les investisseurs se retirent malgré des résultats records.
+> 3. Le retournement : aucune preuve à ce jour, et une pétition géante pour son retour.
 
 ---
 
@@ -34,18 +34,14 @@ Rien n'est prouvé, mais Washington a réagi : enquêtes, projets de loi, et Nvi
 
 ---
 
-## Personne 3 : pourquoi la Bourse recule (slides 5 et 6)
-**Mots-clés : sans patron, Chine perdue, enquêtes, l'avenir**
+## Personne 3 : le retournement (slides 5 et 6)
+**Mots-clés : aucune preuve, pétition, 1er décembre**
 
 **[Slide 5]**
-Ce scandale a un effet direct en Bourse. Nvidia n'a jamais été aussi riche : son chiffre d'affaires a doublé en un an. Pourtant, le jour de la démission, son action a perdu jusqu'à 14 %.
+Mais cette histoire a connu un retournement. À ce jour, ni la Justice ni les services de renseignement américains n'ont prouvé qu'Alice Huang était une espionne. Plus de 180 000 personnes, dont Elon Musk et des milliers de salariés de Nvidia, ont signé une pétition pour le retour de Jensen Huang, et Donald Trump y est favorable. Le conseil d'administration, lui, refuse. Attention toutefois : elle n'a pas été innocentée non plus, et l'enquête continue.
 
 **[Slide 6]**
-Pourquoi les investisseurs se retirent-ils malgré ces résultats ? Il y a quatre raisons.
-D'abord, Nvidia n'a plus de patron : son fondateur est parti, et personne ne sait qui fixera la stratégie.
-Ensuite, la Chine est perdue : Nvidia ne prévoit plus aucune vente de puces d'IA dans ce pays.
-Puis il y a les enquêtes : la SEC, la Justice et le Congrès pourraient entraîner des amendes ou de nouvelles lois.
-Enfin, le chiffre d'affaires montre le passé, alors que la Bourse parie sur l'avenir. Or cet avenir est devenu incertain.
+La suite se jouera le 1er décembre, quand Jensen Huang sera entendu par le Congrès américain. Une question reste donc ouverte : Jensen Huang est-il un danger pour la sécurité des États-Unis, ou la victime d'un scandale allé trop vite ?
 Merci de votre attention. Avez-vous des questions ?
 
 ---
@@ -54,8 +50,8 @@ Merci de votre attention. Avez-vous des questions ?
 - **Qui dirige Nvidia aujourd'hui ?** Colette Kress, l'ancienne directrice financière, assure l'intérim.
 - **L'espionnage est-il prouvé ?** Non. Ce sont des soupçons rapportés par la presse ; Nvidia les conteste et la Chine parle de diffamation.
 - **Alice Huang est-elle de la famille de Jensen Huang ?** Non, ils ont le même nom de famille mais n'ont aucun lien de parenté.
-- **Trump en pense quoi ?** Il défend Jensen Huang et serait favorable à son retour, mais le conseil d'administration refuse.
-- **Le chiffre exact ?** 115,8 milliards de dollars de chiffre d'affaires sur le trimestre, soit +103 % en un an.
+- **Et la Bourse ?** Le jour de la démission, l'action a perdu jusqu'à 14 %, alors que le chiffre d'affaires a doublé en un an : les investisseurs craignent l'incertitude (pas de patron, enquêtes, perte de la Chine).
+- **Le chiffre d'affaires exact ?** 115,8 milliards de dollars de chiffre d'affaires sur le trimestre, soit +103 % en un an.
 
 ## Sources
 - Al Jazeera : [pourquoi Jensen Huang est au cœur d'un scandale d'espionnage](https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal)
@@ -65,4 +61,7 @@ Merci de votre attention. Avez-vous des questions ?
 - CNBC : [l'armée chinoise cherche les puces Nvidia](https://www.cnbc.com/2026/11/18/nvidia-chips-china-military-ai.html)
 - CNBC : [le Congrès veut bloquer les ventes de puces à la Chine](https://www.cnbc.com/2026/11/17/congress-ai-china-jensen-huang-chips.html)
 - Nvidia : [résultats du 3e trimestre](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027)
+- US News : [la Justice n'a pas conclu à l'espionnage](https://www.usnews.com/news/top-news/articles/2026-11-12/us-justice-department-has-not-concluded-alice-huang-was-chinese-spy-blanche-says)
+- CNN : [le renseignement américain n'est pas sûr](https://www.cnn.com/2026/11/12/politics/alice-huang-us-intel-jensen-huang-nvidia)
+- CBC : [la pétition pour son retour](https://www.cbc.ca/news/business/nvidia-ceo-huang-calls-reinstatements-9.7423555)
 - Bloomberg : [la chute en Bourse](https://www.bloomberg.com/news/articles/2026-11-12/nvidia-market-value-sinks-below-4-trillion-after-huang-resigns)
