@@ -44,7 +44,7 @@ Mais certains voient dans cette affaire un enjeu politique. Les États-Unis inte
 Or, sa relation avec Alice Huang était connue au moins depuis 2024, et les services américains la surveillaient. Pourtant, ce n'est que maintenant qu'un document secret a été transmis au *New York Times*, sans que l'on sache par qui. Certains analystes y voient un moyen d'écarter le principal opposant aux restrictions. Rien n'est prouvé, et d'autres pensent que la vraie cause est la contrebande massive de puces vers la Chine. En attendant, plus de 180 000 personnes, dont Elon Musk, réclament son retour, et il sera entendu par le Congrès le 1er décembre.
 
 **[Slide 7]**
-Alors, scandale d'espionnage… ou coup politique ?
+Alors, affaire d'espionnage… ou manœuvre politique ?
 Merci de votre attention. Avez-vous des questions ?
 
 ---
