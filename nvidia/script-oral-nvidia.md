@@ -1,10 +1,10 @@
 # Revue de presse : Nvidia
-*Environ 3 à 4 minutes. Trois parties de même longueur, une idée par partie.*
+*Environ 4 minutes. Trois parties de même longueur, une idée par partie.*
 
 > **Le fil de l'oral :**
 > 1. Le scandale : pourquoi le fondateur de Nvidia est parti.
 > 2. Le danger : ce que ce scandale pourrait permettre à la Chine.
-> 3. Le retournement : aucune preuve à ce jour, et une pétition géante pour son retour.
+> 3. Le retournement : et si cette affaire était aussi politique ?
 
 ---
 
@@ -34,14 +34,17 @@ Rien n'est prouvé, mais Washington a réagi : enquêtes, projets de loi, et Nvi
 
 ---
 
-## Personne 3 : le retournement (slides 5 et 6)
-**Mots-clés : aucune preuve, pétition, 1er décembre**
+## Personne 3 : et si c'était politique ? (slides 5 à 7)
+**Mots-clés : la règle, la fuite, rien n'est prouvé**
 
 **[Slide 5]**
-Mais cette histoire a connu un retournement. À ce jour, ni la Justice ni les services de renseignement américains n'ont prouvé qu'Alice Huang était une espionne. Plus de 180 000 personnes, dont Elon Musk et des milliers de salariés de Nvidia, ont signé une pétition pour le retour de Jensen Huang, et Donald Trump y est favorable. Le conseil d'administration, lui, refuse. Attention toutefois : elle n'a pas été innocentée non plus, et l'enquête continue.
+Mais certains voient dans cette affaire un enjeu politique. Les États-Unis interdisent de vendre à la Chine les puces trop puissantes. Nvidia a donc conçu des puces bridées, juste sous la limite autorisée. Et Jensen Huang était le principal opposant à ces restrictions : selon lui, interdire pousse la Chine à créer ses propres puces et à rattraper son retard.
 
 **[Slide 6]**
-La suite se jouera le 1er décembre, quand Jensen Huang sera entendu par le Congrès américain. Une question reste donc ouverte : Jensen Huang est-il un danger pour la sécurité des États-Unis, ou la victime d'un scandale allé trop vite ?
+Or, sa relation avec Alice Huang était connue au moins depuis 2024, et les services américains la surveillaient. Pourtant, ce n'est que maintenant qu'un document secret a été transmis au *New York Times*, sans que l'on sache par qui. Certains analystes y voient un moyen d'écarter le principal opposant aux restrictions. Rien n'est prouvé, et d'autres pensent que la vraie cause est la contrebande massive de puces vers la Chine. En attendant, plus de 180 000 personnes, dont Elon Musk, réclament son retour, et il sera entendu par le Congrès le 1er décembre.
+
+**[Slide 7]**
+Alors, scandale d'espionnage… ou coup politique ?
 Merci de votre attention. Avez-vous des questions ?
 
 ---
@@ -49,6 +52,7 @@ Merci de votre attention. Avez-vous des questions ?
 ## Si on vous pose une question
 - **Qui dirige Nvidia aujourd'hui ?** Colette Kress, l'ancienne directrice financière, assure l'intérim.
 - **L'espionnage est-il prouvé ?** Non. Ce sont des soupçons rapportés par la presse ; Nvidia les conteste et la Chine parle de diffamation.
+- **Qu'est-ce que la puce bridée ?** Le H20 : une version moins puissante des puces de Nvidia, conçue en 2023 pour respecter les limites américaines et pouvoir être vendue en Chine.
 - **Alice Huang est-elle de la famille de Jensen Huang ?** Non, ils ont le même nom de famille mais n'ont aucun lien de parenté.
 - **Et la Bourse ?** Le jour de la démission, l'action a perdu jusqu'à 14 %, alors que le chiffre d'affaires a doublé en un an : les investisseurs craignent l'incertitude (pas de patron, enquêtes, perte de la Chine).
 - **Le chiffre d'affaires exact ?** 115,8 milliards de dollars de chiffre d'affaires sur le trimestre, soit +103 % en un an.
@@ -63,5 +67,9 @@ Merci de votre attention. Avez-vous des questions ?
 - Nvidia : [résultats du 3e trimestre](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027)
 - US News : [la Justice n'a pas conclu à l'espionnage](https://www.usnews.com/news/top-news/articles/2026-11-12/us-justice-department-has-not-concluded-alice-huang-was-chinese-spy-blanche-says)
 - CNN : [le renseignement américain n'est pas sûr](https://www.cnn.com/2026/11/12/politics/alice-huang-us-intel-jensen-huang-nvidia)
+- Internet Governance Project : [l'hypothèse d'un coup contre Huang](https://www.internetgovernance.org/2026/11/12/the-hit-job-on-jensen-huang/)
+- Tom's Hardware : [l'hypothèse de la contrebande massive](https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls)
+- CFR : [les enjeux de politique étrangère](https://www.cfr.org/articles/nvidia-chinese-espionage-and-the-ai-race-four-foreign-policy-issues-to-watch)
+- Notebookcheck : [Huang, « les restrictions accélèrent la Chine »](https://www.notebookcheck.net/Jensen-Huang-says-export-controls-only-spur-China-s-AI-chip-development.1058022.0.html)
 - CBC : [la pétition pour son retour](https://www.cbc.ca/news/business/nvidia-ceo-huang-calls-reinstatements-9.7423555)
 - Bloomberg : [la chute en Bourse](https://www.bloomberg.com/news/articles/2026-11-12/nvidia-market-value-sinks-below-4-trillion-after-huang-resigns)
