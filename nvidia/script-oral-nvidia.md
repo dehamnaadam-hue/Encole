@@ -4,7 +4,7 @@
 > **Le fil de l'oral :**
 > 1. Le scandale : pourquoi le fondateur de Nvidia est parti.
 > 2. Le danger : ce que ce scandale pourrait permettre à la Chine.
-> 3. Le retournement : et si cette affaire était aussi politique ?
+> 3. Une affaire pas terminée : rien n'est prouvé, et des zones d'ombre.
 
 ---
 
@@ -34,17 +34,14 @@ Rien n'est prouvé, mais Washington a réagi : enquêtes, projets de loi, et Nvi
 
 ---
 
-## Adam : et si c'était politique ? (slides 5 à 7)
-**Mots-clés : la règle, la fuite, rien n'est prouvé**
+## Adam : une affaire pas terminée (slides 5 et 6)
+**Mots-clés : rien n'est prouvé, pourquoi maintenant, opposant aux restrictions**
 
 **[Slide 5]**
-Mais certains voient dans cette affaire un enjeu politique. Les États-Unis interdisent de vendre à la Chine les puces trop puissantes. Nvidia a donc conçu des puces bridées, juste sous la limite autorisée. Et Jensen Huang était le principal opposant à ces restrictions : selon lui, interdire pousse la Chine à créer ses propres puces et à rattraper son retard.
+Mais cette affaire est loin d'être terminée. À ce jour, ni la Justice ni les services de renseignement américains n'ont prouvé qu'Alice Huang était une espionne. Plus de 180 000 personnes, dont Elon Musk, réclament le retour de Jensen Huang, et il sera entendu par le Congrès le 1er décembre. Alors, espionnage ou manœuvre politique ?
 
 **[Slide 6]**
-Or, sa relation avec Alice Huang était connue au moins depuis 2024, et les services américains la surveillaient. Pourtant, ce n'est que maintenant qu'un document secret a été transmis au *New York Times*, sans que l'on sache par qui. Certains analystes y voient un moyen d'écarter le principal opposant aux restrictions. Rien n'est prouvé, et d'autres pensent que la vraie cause est la contrebande massive de puces vers la Chine. En attendant, plus de 180 000 personnes, dont Elon Musk, réclament son retour, et il sera entendu par le Congrès le 1er décembre.
-
-**[Slide 7]**
-Alors, espionnage ou manœuvre politique ? Rien n'est prouvé à ce jour : l'enquête et l'audition du 1er décembre devront trancher.
+Car l'affaire a des zones d'ombre. D'abord, leur relation était connue des services américains au moins depuis 2024 : pourquoi la révéler seulement maintenant ? Ensuite, c'est un document secret qui a été transmis au *New York Times*, et on ne sait pas par qui. Enfin, Jensen Huang était le principal opposant aux restrictions de vente de puces à la Chine : selon lui, interdire pousse la Chine à créer ses propres puces. Certains analystes pensent donc que cette fuite visait à l'écarter. D'autres pensent que la vraie cause est la contrebande de puces vers la Chine. Rien n'est prouvé : l'enquête devra trancher.
 Merci de votre attention. Avez-vous des questions ?
 
 ---
