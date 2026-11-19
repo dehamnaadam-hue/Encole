@@ -8,7 +8,7 @@
 
 ---
 
-## Personne 1 : le scandale (slides 1 à 3)
+## Romeo : le scandale (slides 1 à 3)
 **Mots-clés : pelles, fondateur, soupçon d'espionnage**
 
 **[Slide 1]**
@@ -22,7 +22,7 @@ Le 12 novembre, Jensen Huang, qui dirigeait Nvidia depuis 33 ans, démissionne. 
 
 ---
 
-## Personne 2 : le risque pour la sécurité (slide 4)
+## Rayane : le risque pour la sécurité (slide 4)
 **Mots-clés : les puces, l'armée, l'influence**
 
 **[Slide 4]**
@@ -34,7 +34,7 @@ Rien n'est prouvé, mais Washington a réagi : enquêtes, projets de loi, et Nvi
 
 ---
 
-## Personne 3 : et si c'était politique ? (slides 5 à 7)
+## Adam : et si c'était politique ? (slides 5 à 7)
 **Mots-clés : la règle, la fuite, rien n'est prouvé**
 
 **[Slide 5]**
