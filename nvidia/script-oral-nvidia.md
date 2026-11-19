@@ -4,7 +4,7 @@
 > **Le fil de l'oral :**
 > 1. Le scandale : pourquoi le fondateur de Nvidia est parti.
 > 2. Le danger : ce que ce scandale pourrait permettre à la Chine.
-> 3. La leçon : en Bourse, le chiffre d'affaires ne fait pas tout.
+> 3. La Bourse : pourquoi les investisseurs se retirent malgré des résultats records.
 
 ---
 
@@ -34,15 +34,18 @@ Rien n'est prouvé, mais Washington a réagi : enquêtes, projets de loi, et Nvi
 
 ---
 
-## Personne 3 : la leçon (slides 5 et 6)
-**Mots-clés : riche, confiance, l'avenir**
+## Personne 3 : pourquoi la Bourse recule (slides 5 et 6)
+**Mots-clés : sans patron, Chine perdue, enquêtes, l'avenir**
 
 **[Slide 5]**
-Le plus frappant, c'est le paradoxe. Nvidia n'a jamais été aussi riche : son chiffre d'affaires a doublé en un an. Pourtant, le jour de la démission, son action a perdu jusqu'à 14 %.
+Ce scandale a un effet direct en Bourse. Nvidia n'a jamais été aussi riche : son chiffre d'affaires a doublé en un an. Pourtant, le jour de la démission, son action a perdu jusqu'à 14 %.
 
 **[Slide 6]**
-Ce que l'on retient, c'est que le chiffre d'affaires n'est pas le seul critère en Bourse. Les investisseurs regardent aussi la confiance dans le dirigeant, le risque politique et la réputation. Ici, les trois ont été touchés en même temps.
-En Bourse, on n'achète pas seulement les résultats d'une entreprise : on achète son avenir.
+Pourquoi les investisseurs se retirent-ils malgré ces résultats ? Il y a quatre raisons.
+D'abord, Nvidia n'a plus de patron : son fondateur est parti, et personne ne sait qui fixera la stratégie.
+Ensuite, la Chine est perdue : Nvidia ne prévoit plus aucune vente de puces d'IA dans ce pays.
+Puis il y a les enquêtes : la SEC, la Justice et le Congrès pourraient entraîner des amendes ou de nouvelles lois.
+Enfin, le chiffre d'affaires montre le passé, alors que la Bourse parie sur l'avenir. Or cet avenir est devenu incertain.
 Merci de votre attention. Avez-vous des questions ?
 
 ---
